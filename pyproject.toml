@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "slack-meishi"
+version = "0.1.0"
+description = ""
+authors = ["naosuke <info@naosuke.me>"]
+readme = "README.md"
+packages = [{include = "slack_meishi"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pillow = "^10.1.0"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
