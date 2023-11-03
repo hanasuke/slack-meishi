@@ -15,7 +15,7 @@ COLS, ROWS = 2, 4
 BORDER_WIDTH = 1
 BORDER_COLOR = "black"
 
-BASE_IMAGE_PATH = "./assets/green-bar.png"
+BASE_IMAGE_PATH = "./assets/template.png"
 DEFAULT_FONT_PATH = "~/Library/Fonts/MPLUS2[wght].ttf"
 DEFAULT_OUTPUT_DIR = "./outputs/"
 
